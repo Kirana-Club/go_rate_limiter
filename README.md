@@ -2,7 +2,7 @@
 
 Rate limiting examples in Golang.
 
-`$ go get github.com/jpg013/ratelimiter`
+`$ go get github.com/Kirana-Club/go_rate_limiter`
 
 Throttle Rate Limiter
 ```golang
