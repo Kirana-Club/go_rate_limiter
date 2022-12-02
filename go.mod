@@ -1,4 +1,4 @@
-module github.com/jpg013/go_rate_limiter
+module github.com/Kirana-Club/go_rate_limiter
 
 go 1.13
 
